@@ -2,9 +2,7 @@
 layout: page
 ---
 
-Here is **Fang Ren ([任放](https://renfun.github.io/file/个人简历-合肥学院版.pdf))**.
-
-<img src="renfun.github.io/VALSE2023.jpg" class="floatpic" width="360" height="480">
+<img src="https://renfun.github.io/VALSE2023.jpg" class="floatpic" width="360" height="420">
 
 M.E. Student<br>
 
@@ -15,6 +13,8 @@ Hefei University<br>
 Phone: 15150668820<br>
 
 E-mail: renfang@stu.hfuu.edu.cn<br>
+
+Here is **Fang Ren ([任放](https://renfun.github.io/file/个人简历-合肥学院版.pdf))**.
 
 # Biography
 

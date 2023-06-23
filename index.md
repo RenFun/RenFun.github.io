@@ -10,7 +10,7 @@ I am a M.E student in Computer Vision Group, under the supervision of A.Prof. Ch
 
 ## Research Interests
 
-My research interests include **Deep Learning**, **Machine Learning** and **Computer Vision**. Specifically, I focus on **Skeleton-based Human Action Recognition**
+My research interests include **Deep Learning**, **Machine Learning** and **Computer Vision**. Specifically, I focus on **Skeleton-based Human Action Recognition**.
 
 ## Education Experience
 

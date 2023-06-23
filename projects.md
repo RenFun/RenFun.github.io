@@ -4,55 +4,9 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-# Research Projects
+# Projects
 
-P.S., click the hyperlink title to access the source.<br>
-
-#### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf)
-
-<center>
-<img src="/images/resnet-ahp.png">
-</center>
-<br>
-
-#### [Multi-objective Optimization Strategy Model (MCM-2023)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)
-
-<center>
-<img src="/images/MCM-figure3.jpg">
-</center>
-<br>
-
-#### [OpenIoT: Industrial Inspection System (Web)](https://fzuiot.site/)
-
-<center>
-<img src="/images/openiot-system.png">
-</center>
-
-<br>
-
-#### [CityManager: Community Monitoring System](https://caihanlin.com/mypaper/202208cenim.pdf )
-
-<center>
-<img src="/images/iot-manager.png">
-</center>
-<br>
-
-<br>
-
----
-
-# Open-source Projects
-
-<br>
-
-#### [FZU-Flying-Book 福州大学飞跃手册](https://fzu-fly.online/)
-
-This is the flying handbook for FZU students. Many outstanding graduates of Fuzhou University leave their unique experiences, valuable wisdom, and sincere wishes in this flying-handbook.
-
-#### [FZU-LaTeX-template 精美学术模版](https://github.com/GuangLun2000/FZU-latex-template)
-
-Many elegant LaTeX templates designed for FZU students, including Beamer Theme Slides, Recommendation Letters and Undergraduate Thesis Template.
-
-#### [miec-lance 自动化系修读材料](https://github.com/GuangLun2000/miec-lance )
-
-This repo is where I keep track of my incredible journey at FZU-MIEC. You can learn RIDS & CSEE better by refering to this repo, but **please do not directly copy my assignments, codes and any reports!**
+- 安徽省高校自然科学研究项目研究生项目, YJS20210564, 基于集成半监督深度学习的行为识别方法研究, 2022/01-2022/12, 1万, 结题, 参与.
+- 安徽省研究生教育质量工程项目研究生学术创新项目, 2022xscx145, 基于时空数据增强和课程学习的半监督粗细粒度行为识别技术研究, 2023/01-2023/12, 1万, 在研, 参与.
+- 2021年安徽省大学生创新创业训练项目, S202111059266, 基于Android的校园二手商品交易平台的设计与实现, 0.15万, 结题, 主持.
+- 2022年安徽省大学生创新创业训练项目, 1602575875168014336, 基于计算机视觉和运动科学的智能化识别与分析人体运动动作系统, 0.15万, 在研, 主持.

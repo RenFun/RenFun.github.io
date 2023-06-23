@@ -8,25 +8,13 @@ title: Publications
 
 Lastest Update: 20th June 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/publications-zh/)
 
-## Thesis
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu)<br>Industrial Placement Thesis in Huading Tech and IACTIP Lab
+## Papers
 
-<br>
-
-## Conference Paper
-
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).
-
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.
+- **Fang Ren (任放)**, Chao Tang, Anyang Tong, Wenjian Wang, Skeleton-Based Human Action Recognition by Fusing Attention Based Three-stream Convolutional Neural Network and SVM[J]. Multimedia Tools and Applications.[Link](https://link.springer.com/article/10.1007/s11042-023-15334-9)[Paper](https://renfun.github.io/file/Skeleton-based human action recognition by fusing attention based three-stream convolutional neural network and SVM.pdf)
 
 <br>
 
-## Competition Paper
-
-- [Reshape the Crowning Glory of Maasai Mara](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**Hanlin Cai**, Yufei Wu, Wenxuan Luo, Zhezhuang Xu<br>Mathematical Contest In Modeling (COMAP 2023)<br>**Finalist Award** (Top 1% of all 20858 paper).
-
-<br>
 
 ---
 

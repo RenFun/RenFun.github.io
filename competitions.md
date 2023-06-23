@@ -1,44 +1,18 @@
 ---
 layout: page
 permalink: /competitions/index.html
-title: Awards
+title: Competitions
 ---
-
-## Scholarships
-
-- May 2023：**XiamenAir Scholarship** (about $1400)<br>One of the highest scholarships in Fujian Province.
-- March 2023：Second Prize Scholarship of FZU ($1400)
-- Sep 2022: Best Student Project Award of Maynooth (€100)
-- Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth.
 
 ## Competitions
 
-- June 2023：**First Prize (Provincial Championship)** in Youth Science Popularization Innovation Project Competition
-- May 2023：**Finalist Award** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Dec 2022：**First Prize** (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- Oct 2022：Maynooth International Engineering College **Best Student Project** in Academic Year 2022
-- Aug 2022： Third Prize in China National College Student Computer Design Competition
-- June 2022：Second Prize in Fujian College Student Computer Design Competition
-- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
-- June 2022：Third Prize in the 13th Nanwei Cup Mathematical Mathematical Contest in Modeling
+- 安徽省大数据与人工智能应用竞赛, 2022/10-2023/12, 黑夜守护者, 二等奖.
+- 安徽省“互联网+”大学生创新创业大赛, 2022/05-2022/07, 基于深度学习模型融合的红外人体行为识别方法, 合肥学院校赛 三等奖.
+- 安徽省“互联网+”大学生创新创业大赛, 2023/06-2022/08, 智造家-赋能智能制造产教融合, 省级金奖.
 
-## Honors
+## Scholarships
 
-- May 2023：Outstanding Student Leaders of Fuzhou University
-- Sep 2022：Nomination for China National Scholarship (3/1200)
-- June 2022：Nomination for China Telecom Scholarship (1/900)
-- April 2022：**Top 10 Best Volunteers (Only 10/30000)** of Fuzhou University
-- May 2021：Merit Student of Fuzhou University
+- 2021年合肥学院研究生学业奖学金三等奖, 0.8万.
+- 2022年合肥学院研究生学业奖学金三等奖, 1.2万.
 
-## Services
-
-- Sep 2022 - Sep 2023：IEEE Student Membership
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee, Fuzhou University
-- Sep 2020 - Sep 2021：Monitor of Maynooth International Engineering College, Fuzhou University
-- July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at 4th Digital China Summit
-
-Lastest Update: 21th May 2023 &nbsp; [中文 (Chinese Version)](https://caihanlin.com/awards-zh/)
+Lastest Update: 21th May 2023 &nbsp; 

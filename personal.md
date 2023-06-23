@@ -1,37 +1,26 @@
 ---
 layout: page
 permalink: /personal/index.html
-title: Personal Skills and Advantages
+title: Personal Advantages
 ---
 
-## My Blogs
+# Scholarships
 
-### 2023
+- 2022年合肥学院研究生学业奖学金三等奖, 1.2万.
+- 2021年合肥学院研究生学业奖学金三等奖, 0.8万.
 
-- [极简风个人网站搭建指南](https://caihanlin.com/blogs/web)
+# Skills
 
-### 2022
+- 精通Python编程，熟练掌握并使用OpenCV算法、Pytorch框架和Halcon软件.
+- 熟悉模式识别、图像分类、语义分割、目标检测等计算机视觉主流方向，以及相关的深度网络模型，例如CNN、GCN、Transformer等.
+- 熟悉机器学习主流算法，例如SVM、KNN、DT、半监督学习、对比学习等.
+- 具有扎实的编程能力和良好的英文文献阅读能力，善于发现问题、解决问题和总结问题。接受过完整的科研训练，具有完备的科研能力，做事严谨且逻辑性强，为人踏实，同时具有一定的领导能力.
+- CET-6: 451, CET-4: 519.
+- 全国计算机二级考试(C语言).
 
-- [20岁，宽心且看月中桂](https://caihanlin.com/blogs/20yrs)<br>
-- [Cambridge 线上暑研回忆录](https://caihanlin.com/blogs/cambridge/)
-- [暂停、暂停、暂停](https://caihanlin.com/blogs/stop/)
-
-### 2021
-
-- [19岁，山高路亦远](https://caihanlin.com/blogs/19yrs)<br>
-- 星野学社实习回忆录
-
-### 2020
-
-- [18岁，缓慢受锤的黄金年代](https://caihanlin.com/blogs/18yrs)<br>
-- [本科博客，笔记，回忆录](https://mieclance.club/)
-
-<br>
-
-## Leave a Message
-
-<br>
-
-{% include disqus.html %} 
-
-<br>
+# Academic Experience
+- 参加CCML2023会议.
+- 参加Valse2023大会.
+- 兼职担任《合肥学院学报》审稿人.
+- 担任2022-2023学年合肥学院人工智能与大数据学院研究生课程《计算机视觉》的课程助教.
+- 指导2017级和2018级合肥学院人工智能与大数据学院本科生毕业设计.

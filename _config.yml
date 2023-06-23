@@ -1,4 +1,4 @@
-title: Hanlin Cai
+title: Fang Ren
 # tagline: Two roads diverged in woods, I took the one less traveled by.
 description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
@@ -6,12 +6,12 @@ url: https://renfun.github.io/
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: Fang Ren
+  avatar: renfang-HeFei University.jpg
 #  bio:
-  email: hanlin.cai@ieee.org
+  email: renfang@stu.hfuu.edu.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
+  qq: 1849148621
   # facebook: caihanlin2002
   github: GuangLun2000
   linkedin: hanlin-cai-07b53b23b
@@ -81,5 +81,4 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
 
-# Latest update in 2023/05/01 by Hanlin Cai.
-# URL: https://caihanlin.com/
+# URL: https://renfun.github.io/

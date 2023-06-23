@@ -3,6 +3,8 @@ layout: page
 title: Introduction
 ---
 
+Fang Ren (任放)
+
 M.E. Student<br>
 
 School of Artificial Intelligence and Big Data<br>

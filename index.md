@@ -3,7 +3,9 @@ layout: page
 title: Introduction
 ---
 
-<img src="https://renfun.github.io/VALSE2023.jpg" class="floatpic" width="360" height="420">
+# Intrduction 
+
+<img src="/VALSE2023.jpg" class="floatpic" width="360" height="420">
 
 M.E. Student<br>
 
@@ -15,11 +17,9 @@ Phone: 15150668820<br>
 
 E-mail: renfang@stu.hfuu.edu.cn<br>
 
-Here is **Fang Ren ([任放](https://renfun.github.io/file/个人简历-合肥学院版.pdf))**.
-
 # Biography
 
-I am a M.E student in Computer Vision Group, under the supervision of A.Prof. Chao Tang ([唐超](https://www.hfuu.edu.cn/_upload/article/files/de/04/05bd4dcb4124b3cfd0f235a58148/c4382693-91d8-46af-b66a-9552f970b946.pdf)). I have received the B.E. degree from Nanhang Jincheng College in 2020. Here is [my Resume](https://renfun.github.io/file/个人简历-合肥学院版.pdf).
+I am a M.E student in Computer Vision Group, under the supervision of A.Prof. Chao Tang ([唐超](https://www.hfuu.edu.cn/_upload/article/files/de/04/05bd4dcb4124b3cfd0f235a58148/c4382693-91d8-46af-b66a-9552f970b946.pdf)). I have received the B.E. degree from Nanhang Jincheng College in 2020. Here is my **[Resume]**(https://renfun.github.io/file/个人简历-合肥学院版.pdf).
 
 # Research Interests
 

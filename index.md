@@ -3,8 +3,6 @@ layout: page
 title: Introduction
 ---
 
-<img src="/VALSE2023.jpg" class="floatpic" width="300" height="400">
-
 M.E. Student<br>
 
 School of Artificial Intelligence and Big Data<br>

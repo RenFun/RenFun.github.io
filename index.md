@@ -15,5 +15,5 @@ My research interests include **Deep Learning**, **Machine Learning** and **Comp
 ## Education Experience
 
 - **<font color='red'>[News]</font> I am looking for PhD to start in 2023 Fall. Contact me if you have any leads!**
-- **2021/09 - present, ** M.E student, School of Artificial Intelligence and Big Data, [Hefei University](https://www.hfuu.edu.cn/).
-- **2016/09 - 2020/06, ** B.E student, School of Information Engineering, [Nanhang Jincheng College](http://jc.nuaa.edu.cn/).
+- **2021/09 - present,** M.E student, School of Artificial Intelligence and Big Data, [Hefei University](https://www.hfuu.edu.cn/).
+- **2016/09 - 2020/06,**B.E student, School of Information Engineering, [Nanhang Jincheng College](http://jc.nuaa.edu.cn/).

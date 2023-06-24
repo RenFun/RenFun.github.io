@@ -3,9 +3,9 @@ layout: page
 title: Introduction
 ---
 
-# Here is Fang Ren's(任放) personal home page
+# Fang Ren's(任放) home page
 
-<img src="https://renfun.github.io//VALSE2023.jpg" class="floatpic" width="260" height="380">
+<img src="https://renfun.github.io//VALSE2023.jpg" class="floatpic" width="360" height="480">
 
 # Biography
 

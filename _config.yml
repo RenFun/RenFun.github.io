@@ -1,14 +1,14 @@
 title: Fang Ren
-tagline: Time is passing and so are we.
-# description: Two roads diverged in woods, I took the one less traveled by.
+# tagline: Time is passing and so are we.
+description: Time is passing and so are we.
 #Comment out url when working locally to resolve base urls correctly
 url: https://renfun.github.io/
 
-Owner/author information
+# Owner/author information
 owner:
   name: Fang Ren
   avatar: renfang.jpg
-bio:
+# bio:
   email: renfang@stu.hfuu.edu.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # facebook: caihanlin2002

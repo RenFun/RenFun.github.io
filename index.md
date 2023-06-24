@@ -3,9 +3,9 @@ layout: page
 title: Introduction
 ---
 
-Here is Fang Ren [(任放)](https://renfun.github.io/file/个人简历-合肥学院版.pdf)
+# Here is Fang Ren's(任放) personal home page.
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="300" height="400">
 
 # Biography
 

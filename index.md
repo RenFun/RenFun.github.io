@@ -3,7 +3,7 @@ layout: page
 title: Introduction
 ---
 
-# Fang Ren's Home Page
+# <font color='Blue'>Fang Ren's Home Page</font> 
 
 # Biography
 

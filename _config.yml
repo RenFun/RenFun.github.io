@@ -1,4 +1,4 @@
-title: 任放
+title: Fang Ren
 # tagline: Time is passing and so are we.
 description: Time is passing and so are we.
 #Comment out url when working locally to resolve base urls correctly
@@ -9,6 +9,8 @@ owner:
   name: Fang Ren
   avatar: renfang1.jpg
 # bio:
+  statue: M.E. Student
+  affiliation: School of Artificial Intelligence and Big Data, Hefei University
   email: renfang@stu.hfuu.edu.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   qq: 1849148621

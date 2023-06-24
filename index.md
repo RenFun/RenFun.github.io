@@ -5,7 +5,7 @@ title: Introduction
 
 # Here is Fang Ren's(任放) personal home page.
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="300" height="400">
+<img src="https://renfun.github.io//VALSE2023.jpg" class="floatpic" width="260" height="380">
 
 # Biography
 

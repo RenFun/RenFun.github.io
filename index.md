@@ -3,17 +3,9 @@ layout: page
 title: Introduction
 ---
 
-Fang Ren (任放)
+Here is Fang Ren [(任放)](https://renfun.github.io/file/个人简历-合肥学院版.pdf)
 
-M.E. Student<br>
-
-School of Artificial Intelligence and Big Data<br>
-
-Hefei University<br>
-
-Phone: 15150668820<br>
-
-E-mail: renfang@stu.hfuu.edu.cn<br>
+<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
 # Biography
 

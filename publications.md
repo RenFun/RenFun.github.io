@@ -25,9 +25,8 @@ IEEE Transactions on Circuits and Systems for Video Technology (**SCI收录, JCR
 
 ## Working Paper
 
-- **Learning Comprehensive Spatio-Temporal Representations for Skeleton-based Action Recognition**<br>
-**Fang Ren (任放)**, Chao Tang, Anyang Tong, Wenjian Wang<br>
-IEEE Transactions on Circuits and Systems for Video Technology (**SCI收录, JCR Q1, IF 8.4, CCF B类推荐期刊**) (**Submission in progress**)<br>
+- **Spatial Temporal Transformer and GCN for Skeleton-Based Action Recognition**<br>
+**Fang Ren (任放)**,<br>
 
 
 <br>

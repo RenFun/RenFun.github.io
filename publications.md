@@ -6,7 +6,7 @@ title: Publications
 
 # Publications
 
-Lastest Update: Aug. 10 2023&nbsp; 
+Lastest Update: August. 10 2023&nbsp; 
 
 
 ## Papers

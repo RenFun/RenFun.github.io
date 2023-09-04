@@ -6,7 +6,7 @@ title: Publications
 
 # Publications
 
-Lastest Update: August. 10 2023&nbsp; 
+Lastest Update: 4 September 2023&nbsp; 
 
 
 ## Papers
@@ -27,8 +27,9 @@ IEEE Transactions on Circuits and Systems for Video Technology (**SCI收录, JCR
 
 ## Working Paper
 
-- **Spatial Temporal Transformer and GCN for Skeleton-Based Action Recognition**<br>
+- **Skeleton-Based Action Recognition by Spatial Temporal GCN with Contrastive Learning**<br>
 **Fang Ren (任放)**<br>
-
+- **Multi-scale Axis Self-Attention Model for Skeleton-Based Action Recognition**<br>
+**Fang Ren (任放)**<br>
 
 <br>

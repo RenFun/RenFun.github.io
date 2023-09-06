@@ -32,4 +32,11 @@ IEEE Transactions on Circuits and Systems for Video Technology (**SCI收录, JCR
 - **Multi-scale Axis Self-Attention Model for Skeleton-Based Action Recognition**<br>
 **Fang Ren (任放)**<br>
 
+---
+
+## Patents
+
+- **一种基于全面性时空表征的骨架人体行为识别方法**<br>
+唐超，**任放**，童安炀<br>
+
 <br>

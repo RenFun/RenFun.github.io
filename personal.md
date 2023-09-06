@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /personal/index.html
-title: Personal Introduction
+title: Personal
 ---
 
 # Skills

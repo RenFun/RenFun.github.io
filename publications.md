@@ -36,7 +36,7 @@ IEEE Transactions on Circuits and Systems for Video Technology (**SCI收录, JCR
 
 ## Patents
 
-- **一种基于全面性时空表征的骨架人体行为识别方法**<br>
+- **一种基于全面性时空表征的骨架人体行为识别方法（申请中）**<br>
 唐超，**任放**，童安炀<br>
 
 <br>

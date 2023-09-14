@@ -34,8 +34,9 @@ title: Personal
 - 参加2023年视觉与学习青年学者研讨会(Vision And Learning SEminar, VALSE).
 - 兼职参与**TCSVT**、**EAAI**、**NCAA**和合肥学院学报审稿工作.
 - 担任2022-2023学年合肥学院人工智能与大数据学院研究生课程《计算机视觉》的课程助教.
-- 主持多次课题组内部的学术汇报交流研讨会，包括机器学习算法汇报、基于LeNet的手写数字识别实验、已发表的论文分享会等.
 - 指导2018级和2019级合肥学院人工智能与大数据学院本科生工程实训项目和毕业设计项目.
+- 主持多次课题组内部的学术汇报交流研讨会，包括机器学习算法汇报、基于LeNet的手写数字识别实验、已发表的论文分享会等.<br>
+[[<font color='blue'>Wok1</font>]](https://renfun.github.io/file/机器学习_模型评估与选择_任放.pptx)[[<font color='blue'>Wok2</font>]](https://renfun.github.io/file/机器学习_朴素贝叶斯_任放.pptx)[[<font color='blue'>Wok3</font>]](https://renfun.github.io/file/机器学习_聚类_任放.pptx)[[<font color='blue'>Wok4</font>]](https://renfun.github.io/file/基于卷积神经网络的手写数字识别方法.pptx)[[<font color='blue'>Wok5</font>]](https://renfun.github.io/file/阶段汇报：工作1.pptx)
 
 # Scholarships
 

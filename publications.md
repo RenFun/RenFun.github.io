@@ -19,16 +19,19 @@ Multimedia Tools and Applications, 2023 (**SCI收录, JCR Q2, IF 3.6, CCF C类�
 
 - **Learning Comprehensive Spatiotemporal Representations for Skeleton-based Action Recognition**<br>
 **Fang Ren (任放)**, Chao Tang, Anyang Tong, Wenjian Wang<br>
-IEEE Transactions on Circuits and Systems for Video Technology (**SCI收录, JCR Q1, IF 8.4, CCF B类推荐期刊**) (**In Peer Review**)
+IEEE Transactions on Circuits and Systems for Video Technology (**SCI收录, JCR Q1, IF 8.4, CCF B类推荐期刊**) (**REJECT AND INVITE TO RESUBMIT**)
 [[<font color='blue'>Paper</font>]](https://renfun.github.io/file/Manuscript.pdf)
+<br>
+
+- **Skeleton-Based Action Recognition by Dual-path Spatial Temporal Modeling Network with Contrastive Learning**<br>
+**Fang Ren (任放)**, Chao Tang, Anyang Tong, Wenjian Wang<br>
+拟投稿CVPR 2024(CCF A类会议)
 <br>
 
 ---
 
 ## Working Paper
 
-- **Skeleton-Based Action Recognition by Spatial Temporal GCN with Contrastive Learning**<br>
-**Fang Ren (任放)**<br>
 - **Multi-scale Axis Self-Attention Model for Skeleton-Based Action Recognition**<br>
 **Fang Ren (任放)**<br>
 

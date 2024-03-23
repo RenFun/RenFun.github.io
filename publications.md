@@ -6,7 +6,7 @@ title: Publications
 
 # Publications
 
-Lastest Update: 4 September 2023&nbsp; 
+Lastest Update: 23 March 2024&nbsp; 
 
 
 ## Papers
@@ -19,13 +19,13 @@ Multimedia Tools and Applications, 2023 (**SCI收录, JCR Q2, IF 3.6, CCF C类�
 
 - **Learning Comprehensive Spatiotemporal Representations for Skeleton-based Action Recognition**<br>
 **Fang Ren (任放)**, Chao Tang, Anyang Tong, Wenjian Wang<br>
-IEEE Transactions on Circuits and Systems for Video Technology (**SCI收录, JCR Q1, IF 8.4, CCF B类推荐期刊**) (**REJECT AND INVITE TO RESUBMIT**)
-[[<font color='blue'>Paper</font>]](https://renfun.github.io/file/Manuscript.pdf)
+IEEE Transactions on Circuits and Systems for Video Technology (**SCI收录, JCR Q1, IF 8.4, CCF B类推荐期刊**) (**Major Revision**)
+[[<font color='blue'>Paper</font>]](https://renfun.github.io/file/Learning Comprehensive Spatiotemporal Representations for Skeleton-based Action Recognition-大修.pdf)
 <br>
 
 - **Skeleton-Based Action Recognition by Dual-path Spatial Temporal Modeling Network with Contrastive Learning**<br>
 **Fang Ren (任放)**, Chao Tang, Anyang Tong, Wenjian Wang<br>
-拟投稿CVPR 2024(CCF A类会议)
+拟投稿
 <br>
 
 ---
@@ -40,6 +40,6 @@ IEEE Transactions on Circuits and Systems for Video Technology (**SCI收录, JCR
 ## Patents
 
 - **一种基于全面性时空表征的骨架人体行为识别方法（申请中）**<br>
-唐超，**任放**，童安炀<br>
+唐超，**任放**，童安炀，席治远，曹奕凡<br>
 
 <br>
